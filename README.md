@@ -6,3 +6,4 @@ that answer the following questions:
 2. Which regions have the highest number of cases, deaths and death rates combined
 3. Which countries in Africa have the highest cases combined
 4. Which countries in Western Pacific have the highest death rates in the whole period
+In addition, a linear model for the number of deaths given the number of cases globally, is created
